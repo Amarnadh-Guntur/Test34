@@ -1,0 +1,264 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 12,
+        "name": "Login page with examples keyword",
+        "description": "",
+        "id": "login-check-features-with-examples;login-page-with-examples-keyword;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7481687167,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is in login page screen",
+            "match": {
+              "location": "StepDefwithexamples.user_is_in_login_page_screen()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7603793125,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters \"funkypete10@gmail.com\" and \"Gdots143$$\" on login page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "funkypete10@gmail.com",
+                  "offset": 13
+                },
+                {
+                  "val": "Gdots143$$",
+                  "offset": 41
+                }
+              ],
+              "location": "StepDefwithexamples.user_enters_and_on_login_page(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1542980250,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on login Button on home page",
+            "match": {
+              "location": "StepDefwithexamples.user_clicks_on_login_Button_on_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6066417,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user naviagtes to Home page from login page",
+            "match": {
+              "location": "StepDefwithexamples.user_naviagtes_to_Home_page_from_login_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 31958,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user closes the Browser in Home page",
+            "match": {
+              "location": "StepDefwithexamples.user_closes_the_Browser_in_Home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Login page with examples keyword",
+        "description": "",
+        "id": "login-check-features-with-examples;login-page-with-examples-keyword;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7458999042,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is in login page screen",
+            "match": {
+              "location": "StepDefwithexamples.user_is_in_login_page_screen()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7033180750,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters \"gunturmarnadh88@gmail.com\" and \"Dotsvalue@143$$\" on login page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "gunturmarnadh88@gmail.com",
+                  "offset": 13
+                },
+                {
+                  "val": "Dotsvalue@143$$",
+                  "offset": 45
+                }
+              ],
+              "location": "StepDefwithexamples.user_enters_and_on_login_page(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2576994833,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on login Button on home page",
+            "match": {
+              "location": "StepDefwithexamples.user_clicks_on_login_Button_on_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4885250,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user naviagtes to Home page from login page",
+            "match": {
+              "location": "StepDefwithexamples.user_naviagtes_to_Home_page_from_login_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 36750,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user closes the Browser in Home page",
+            "match": {
+              "location": "StepDefwithexamples.user_closes_the_Browser_in_Home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Login page with examples keyword",
+        "description": "",
+        "id": "login-check-features-with-examples;login-page-with-examples-keyword;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6050731291,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is in login page screen",
+            "match": {
+              "location": "StepDefwithexamples.user_is_in_login_page_screen()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6843320417,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters \"amarnadhguntur015@gmail.com\" and \"Gdots143$$\" on login page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "amarnadhguntur015@gmail.com",
+                  "offset": 13
+                },
+                {
+                  "val": "Gdots143$$",
+                  "offset": 47
+                }
+              ],
+              "location": "StepDefwithexamples.user_enters_and_on_login_page(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2044971083,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on login Button on home page",
+            "match": {
+              "location": "StepDefwithexamples.user_clicks_on_login_Button_on_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4371209,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user naviagtes to Home page from login page",
+            "match": {
+              "location": "StepDefwithexamples.user_naviagtes_to_Home_page_from_login_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 47791,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user closes the Browser in Home page",
+            "match": {
+              "location": "StepDefwithexamples.user_closes_the_Browser_in_Home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login check features with examples",
+    "description": "",
+    "id": "login-check-features-with-examples",
+    "keyword": "Feature",
+    "uri": "/Users/amarnadhguntur/eclipse-workspace/Test34/src/main/java/features/logincheckwithexamples.feature"
+  }
+]

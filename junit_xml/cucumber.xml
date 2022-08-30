@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="48.652098">
+    <testcase classname="Login check features with examples" name="Login page with examples keyword" time="16.634559">
+        <system-out><![CDATA[Given user is in login page screen..........................................passed
+When user enters "funkypete10@gmail.com" and "Gdots143$$" on login page.....passed
+Then user clicks on login Button on home page...............................passed
+Then user naviagtes to Home page from login page............................passed
+Then user closes the Browser in Home page...................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Login check features with examples" name="Login page with examples keyword 2" time="17.074097">
+        <system-out><![CDATA[Given user is in login page screen..........................................passed
+When user enters "gunturmarnadh88@gmail.com" and "Dotsvalue@143$$" on login page.passed
+Then user clicks on login Button on home page...............................passed
+Then user naviagtes to Home page from login page............................passed
+Then user closes the Browser in Home page...................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Login check features with examples" name="Login page with examples keyword 3" time="14.943442">
+        <system-out><![CDATA[Given user is in login page screen..........................................passed
+When user enters "amarnadhguntur015@gmail.com" and "Gdots143$$" on login page.passed
+Then user clicks on login Button on home page...............................passed
+Then user naviagtes to Home page from login page............................passed
+Then user closes the Browser in Home page...................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
